@@ -1,0 +1,26 @@
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.exe
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.deps.json
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.json
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.dev.json
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.dll
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.pdb
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csprojAssemblyReference.cache
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfoInputs.cache
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfo.cs
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.dll
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.pdb
+D:\Projects\Linked List\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.genruntimeconfig.cache
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.exe
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.deps.json
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.json
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.dev.json
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.dll
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.pdb
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csprojAssemblyReference.cache
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfoInputs.cache
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfo.cs
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.dll
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.pdb
+D:\Projects\Single Linked List\C-single-linked-list\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.genruntimeconfig.cache
